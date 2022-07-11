@@ -1,4 +1,4 @@
-# Online Banking App ![Build Status](https://travis-ci.org/openMF/online-banking.svg?branch=master)
+# Online Banking App ![Build Status](https://travis-ci.org/TopEngineer0926/online-banking.svg?branch=master)
 
 Online Banking App is the revamped version of Web Self Service App. The app leverages standard web technologies and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
@@ -17,7 +17,7 @@ npm install -g @angular/cli@9.1.7
 
 3. Clone the project locally into your system.
 ```
-git clone https://github.com/openMF/online-banking.git
+git clone https://github.com/TopEngineer0926/online-banking.git
 ```
 
 4. `cd` into project root directory and make sure you are on the master branch.
@@ -62,4 +62,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Want to help? 
 
-Want to file a bug, request a feature, contribute some code, or improve documentation? Excellent!  check out one of our [issues](https://github.com/openMF/web-app/issues). Make sure you follow the proper standard paradigms before sending a contribution!
+Want to file a bug, request a feature, contribute some code, or improve documentation? Excellent!  check out one of our [issues](https://github.com/TopEngineer0926/web-app/issues). Make sure you follow the proper standard paradigms before sending a contribution!
